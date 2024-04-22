@@ -15,14 +15,14 @@ let header=()=>{
     <div id="follow">
      <div>Follow us:</div>
      <div id="followus">
-        <img id="twitter" src="https://indianexpress.com/wp-content/themes/indianexpress/images/fb-followus.svg" alt="">
-        <img id="fb" src="https://indianexpress.com/wp-content/themes/indianexpress/images/twitter-followus.svg" alt="">
+        <img id="twitter" src="../assets/fb-followus.svg" alt="">
+        <img id="fb" src="../assets/twitter-followus.svg" alt="">
      </div>
     </div>
     
     <div id="logo">
     <div>
-        <img src="https://indianexpress.com/wp-content/themes/indianexpress/images/indian-express-logo-n.svg" alt="">
+        <img src="../assets/sport_express_logo.png" alt="">
     </div>
     <div>
         <p id="date"></p>
@@ -272,10 +272,10 @@ let footer=()=>{
 
              <div id="footer-end">
                 <div id="fe1">
-                 <h6> Copyright © 2022 The Indian Express [P] Ltd. All Rights Reserved</h6>
+                 <h6> Copyright © 2024 The Sports Express Pte Ltd. All Rights Reserved</h6>
                 </div>
                 <div id="fe2">
-                  <img src="https://indianexpress.com/wp-content/themes/indianexpress/images/vip-powered-logo.png" alt="">
+                  <img src="../assets/cloudflare-btm.png" alt="">
                 </div>
              </div>
         </div>
