@@ -48,16 +48,16 @@ span{
     border-radius: 10px;
 }
 @keyframes slider{
-    0%{   background-image:url(https://images.indianexpress.com/2021/12/Carlsen-2.jpg?resize=450,250);
+    0%{   background-image:url(/assets/Carlsen-2.webp?resize=450,250);
     }
     25%{
-        background-image: url(https://images.indianexpress.com/2022/07/neeraj-chopra-8.jpg?resize=450,250);
+        background-image: url(/assets/neeraj-chopra-8.webp?resize=450,250);
     }
     50%{
-        background-image: url(https://images.indianexpress.com/2018/12/hockey-world-cup-1200-1.jpg);
+        background-image: url(/assets/hockey-world-cup-1200-1.webp);
     }
     75%{
-        background-image: url(https://images.indianexpress.com/2022/07/Abdullah-Shafique-1.jpg);
+        background-image: url(/assets/Abdullah-Shafique-1.webp);
     }
 }
 
